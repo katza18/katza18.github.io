@@ -26,7 +26,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  katza18
 linkedin_username: katza18
 username: Aidan Katz
-user_description: I am a problem solver with a passion for innovation and technology. I enjoy tackling complex challenges and finding creative solutions that make a difference.
+user_description: >-
+  I'm a problem solver with a lifelong passion for innovation and technology. 
+  From a young age, I always had a knack for understanding how things work and troubleshooting issues in creative ways, whether I was soldering guitar pedals, assembling PCs, or working on cars at my family's automotive repair shop.
+  My curiosity led me to explore various fields before landing in software development.
+  I earned my bachelor's degree in Kinesiology with minors in Sport Studies and Biology and a pre-med focus from Penn State, where I was drawn to the diagnostic and problem-solving aspects of medicine.
+  I accelerated my studies to graduate in just 3 years and became certified and worked as an EMT and strength and conditioning coach.
+  Each of these experiences furthered my adaptability and ability to work under pressure.
+  After graduation, I discovered programming through personal experimentation and immediately recognized it as a perfect fit. Unlike medicine and engineering, coding allowed me to create products from nothing and see the results in real-time. 
+  As I do with anything I'm passionate about, I dove right in, took up prerequisite courses, and was later accepted into a Master's program in Computer Science at Georgia Tech.
+  Halfway through my Master's program, I joined a local retail company with all in-house IT and software where I wear many hats: developing internal tools, managing networks and hardware, automating workflows, and deploying mobile and web apps.
+  Today, I am seeking to further my career in software development, where I can tackle complex challenges, create innovative solutions, and continue to make an impact through technology.
+
 user_title: Software Developer
 
 # Google-analytics

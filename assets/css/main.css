@@ -17,9 +17,10 @@
 
 @media only screen and (min-width:1050px){.user{flex-wrap:nowrap;font-size:75px}}
 .user-details{text-align:center;margin:5px auto}
-#projects{display:flex;flex-direction:column;justify-content:space-between;width:90%;max-width:960px;margin:0 auto}
+#projects,#professional,#academic{display:flex;flex-direction:column;justify-content:space-between;width:90%;max-width:960px;margin:0 auto}
 
-@media only screen and (min-width:1050px){#projects{width:80%}}
+
+@media only screen and (min-width:1050px){#projects,#professional,#academic{width:80%}}
 .user-projects{margin:20px auto}
 .user-projects img{max-width:100%;height:auto;border-radius:5px}
 .user-projects h5,body{margin:0}
@@ -40,5 +41,20 @@ button:active, button:hover{color:#1a222c;background-color:transparent;transitio
 
 .footer{background:#1a222c;padding:10px 0;margin-top:100px;text-align:center;color:#fff}
 .footer .love{color:red}
-.footer a{text-decoration:none;margin:0;color:#fff} 
+.footer a{text-decoration:none;margin:0;color:#fff}
 i{font-size: 4rem;}
+
+@media only screen and (min-width: 1050px) {
+  .user-projects.tile {
+    display: flex;
+    flex-direction: row;
+    gap: 32px; /* space between tiles */
+  }
+  .user-projects.tile .contents {
+    flex: 1 1 0;
+    width: 50%;
+    min-width: 0;
+    margin: 0;
+    text-align: left;
+  }
+}
